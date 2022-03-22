@@ -1,0 +1,13 @@
+$ git log
+commit ba25c0ff30e1b2f0259157b42b9f8f5d174d80d7
+Author: Tutorialzine
+Date: Mon May 30 17:15:28 2016 +0300
+New feature complete
+commit b10cc1238e355c02a044ef9f9860811ff605c9b4
+Author: Tutorialzine
+Date: Mon May 30 16:30:04 2016 +0300
+Added content to hello.txt
+commit 09bd8cc171d7084e78e4d118a2346b7487dca059
+Author: Tutorialzine
+Date: Sat May 28 17:52:14 2016 +0300
+Initial commit
